@@ -12,6 +12,7 @@ O que eu faço?
 NexusEdge: Plataforma revolucionária para pesquisa avançada em planilhas Excel.
 
 Projeto Atlas: Ferramenta geoespacial inovadora para busca e filtragem em planilhas Excel.
+
 Minhas habilidades?
 
 🛠️ Habilidades intermediárias em JavaScript, Node.js, HTML e CSS.
