@@ -4,7 +4,7 @@ Quem sou eu?
 
 Meu nome é Sergio Paulo de Andrade, tenho 21 anos e sou apaixonado por tecnologia. Atualmente, sou estudante de Sistemas de Informação e minha jornada no mundo da programação começou cedo. Desde então, venho desenvolvendo minhas habilidades e me dedicando a transformar essa paixão em uma carreira de sucesso.
 
-Atuo como Desenvolvedor Fullstack, com foco tanto no desenvolvimento front-end quanto back-end, além de automação de processos. Minha missão é transformar ideias em soluções tecnológicas inovadoras e eficientes, sempre com foco na excelência.
+Atuo como Desenvolvedor Web Fullstack, com foco tanto no desenvolvimento front-end quanto back-end, além de automação de processos. Minha missão é transformar ideias em soluções tecnológicas inovadoras e eficientes, sempre com foco na excelência.
 
 O que eu faço?
 
@@ -32,7 +32,7 @@ Who am I?
 
 My name is Sergio Paulo de Andrade, I am 21 years old, and I am passionate about technology. I am currently a student of Information Systems, and my journey into the world of programming started early. Since then, I have been developing my skills and dedicating myself to turning this passion into a successful career.
 
-I work as a Fullstack Developer, focusing on both front-end and back-end development, as well as process automation. My mission is to transform ideas into innovative and efficient technological solutions, always aiming for excellence.
+I work as a Fullstack Web Developer, focusing on both front-end and back-end development, as well as process automation. My mission is to transform ideas into innovative and efficient technological solutions, always aiming for excellence.
 
 What do I do?
 
