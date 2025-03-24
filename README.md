@@ -10,7 +10,7 @@ O que eu faço?
 
 Minhas Habilidades
 
-Tenho sólida experiência em diversas linguagens de programação, como C, C++, C#, Python, JavaScript, HTML, CSS e Java, com habilidades intermediárias e avançadas. Atualmente, estou concentrado no desenvolvimento de soluções de automação em Python para a EDP Brasil, ajudando a otimizar processos e impulsionar a inovação dentro da empresa.
+Tenho sólida experiência em diversas linguagens de programação, como C, C++, C#, Python, JavaScript, HTML, CSS e Java, com habilidades intermediárias e avançadas. Atualmente, estou concentrado no desenvolvimento de soluções de automação em Python, ajudando a otimizar processos e impulsionar a inovação dentro da empresa.
 
 Trabalho no desenvolvimento de aplicações web completas, desde a criação de interfaces dinâmicas e intuitivas no front-end até a construção de lógicas robustas no back-end. Além disso, aplico automação para otimizar fluxos de trabalho, trazendo eficiência e agilidade para os projetos.
 
@@ -38,7 +38,7 @@ What do I do?
 
 My Skills
 
-I have solid experience in several programming languages, including C, C++, C#, Python, JavaScript, HTML, CSS, and Java, with intermediate and advanced proficiency. Currently, I am focused on developing automation solutions in Python for EDP Brasil, helping to optimize processes and drive innovation within the company.
+I have solid experience in several programming languages, including C, C++, C#, Python, JavaScript, HTML, CSS, and Java, with intermediate and advanced proficiency. Currently, I am focused on developing automation solutions in Python, helping to optimize processes and drive innovation within the company.
 
 I specialize in developing complete web applications, from creating dynamic and intuitive interfaces on the front-end to building robust logic on the back-end. Additionally, I apply automation to streamline workflows, bringing efficiency and agility to projects.
 
