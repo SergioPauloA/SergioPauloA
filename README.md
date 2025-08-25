@@ -1,6 +1,6 @@
 Sérgio Paulo de Andrade
 
-🎓 Cursando Sistemas de Informação (3º período)
+🎓 Cursando Sistemas de Informação (4º período)
 💻 Desenvolvedor Fullstack (Web & Mobile) | Automações
 
 Quem sou eu?
@@ -46,7 +46,7 @@ Estou sempre em busca de desafios que me permitam crescer, colaborar em projetos
 
 Sérgio Paulo de Andrade
 
-🎓 Information Systems Student (3rd semester)
+🎓 Information Systems Student (4rd semester)
 💻 Fullstack Developer (Web & Mobile) | Automation
 
 Who am I?
