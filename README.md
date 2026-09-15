@@ -2,7 +2,7 @@
 # Olá, eu sou Sérgio Paulo de Andrade! 👋
 
 🚀 **Software Engineer & Desenvolvedor Full Stack**  
-🎓 Cursando Sistemas de Informação (5º período)
+🎓 Cursando Sistemas de Informação (6º período)
 
 ## 👨‍💻 Sobre mim
 
@@ -38,7 +38,7 @@ Estou aberto a networking, troca de conhecimentos e novos desafios na área de E
 # Hi there, I'm Sérgio Paulo de Andrade! 👋
 
 🚀 **Software Engineer & Full Stack Developer**  
-🎓 Information Systems Student (5th semester)
+🎓 Information Systems Student (6th semester)
 
 ## 👨‍💻 Who am I?
 
